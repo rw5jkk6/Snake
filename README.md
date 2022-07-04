@@ -1,1 +1,2 @@
-# Snake
+## Snakeのコードを落とす
+- forkしてclone
