@@ -17,16 +17,20 @@
     - さっきと同じで、前のcommitとコードを比較する
     - コメントをつけてcommitする
     - masterとmergeする。まずvscodeの左下をクリックしてmasterにcheck　outする。branchのところで右クリックしてmergeを押す
-4. 自分自身と壁に当たるとゲームーオーバーにして、文字を表示させる
+4. 自分自身と壁に当たるとゲームーオーバーにして
     - branchでコードを書く
     - コメントをつけてcommitする
     - masterとmergeする。
     - 自分自身に当たってもゲームオーバーしないのでmasterをrevert(○masterの右で右クリックしてrevertを選ぶ)して、先ほどのbranchにcheckoutして修正してmergeする
-5. エサを初期時に置く
+5. ゲームオーバーしてるか分からないので\[ゲームオーバー]の文字を表示させる
     - branchでコードを書く
     - コメントをつけてcommitする
     - masterとmergeする。
-6. エサを食べると大きくなって、ランダムに餌が出現する
+6. エサをゲーム開始時に置くが、エサを取ることはできない
+    - branchでコードを書く
+    - コメントをつけてcommitする
+    - masterとmergeする。
+7. エサを食べると大きくなって、ランダムに餌が出現する
     - branchでコードを書く
     - コメントをつけてcommitする
     - masterとmergeする。
