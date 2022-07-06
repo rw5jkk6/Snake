@@ -17,7 +17,7 @@
     - さっきと同じで、前のcommitとコードを比較する
     - コメントをつけてcommitする
     - masterとmergeする。まずvscodeの左下をクリックしてmasterにcheck　outする。branchのところで右クリックしてmergeを押す
-4. 自分自身と壁に当たるとゲームーオーバーにして
+4. 自分自身と壁に当たるとゲームーオーバーにする
     - branchでコードを書く
     - コメントをつけてcommitする
     - masterとmergeする。
