@@ -53,7 +53,7 @@ def main():
     key = K_DOWN
     game_over = False
     SNAKE.append((int(W/2), (int(H/2))))
-    for _ in range(10):
+    for _ in range(20):
         add_food()
 
     while True:
