@@ -34,7 +34,7 @@
     - branchでコードを書く
     - コメントをつけてcommitする
     - masterとmergeする。
-8. SNAKEの頭をSNAKE_HEADとする
+8. SNAKEの頭をSNAKE_HEADとする(ここからは改良していく)
 
 ## 応用
 - snakeの色を赤と青にしてコンフリクトさせてみる
